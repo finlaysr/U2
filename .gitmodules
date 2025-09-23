@@ -1,3 +1,6 @@
 [submodule "CS208"]
 	path = CS208
 	url = https://github.com/finlaysr/CS208
+[submodule "CS210"]
+	path = CS210
+	url = https://github.com/finlaysr/CS210
